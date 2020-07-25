@@ -8,3 +8,6 @@ Please don't eat my chuck !
 
 
 Good luck Fr13nd .
+
+> NOTE: The disk can be virus-infected. DO NOT RUN any programs extracted from the disk outside of sandbox.
+        N'executez aucun programme (ELF par exemple) extrait du disque
